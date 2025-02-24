@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn and 
 - ⚡ Fun fact: I love coding and coffee.
 
 ## 🚀 My Skills
-- Programming Languages: JavaScript, Python, Java, C++
-- Web Development: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB
+- Programming Languages: JavaScript, Python, Typescript,
+- Web Development: HTML, CSS, React, Node.js, Express.js, Flask, Django
+- Databases: MySQL, MongoDB, prism
 - Tools & Technologies: Git, Docker, Kubernetes
 
 ## 📈 GitHub Stats
