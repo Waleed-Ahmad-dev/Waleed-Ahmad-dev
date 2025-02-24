@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn and 
 - Programming Languages: JavaScript, Python, Typescript,
 - Web Development: HTML, CSS, React, Node.js, Express.js, Flask, Django
 - Databases: MySQL, MongoDB, prism
-- Tools & Technologies: Git, Docker, Kubernetes
+- Tools & Technologies: Git, Docker, 
 
 ## 📈 GitHub Stats
 ![Waleed Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waleed-Ahmad-dev&show_icons=true&theme=radical)
