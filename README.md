@@ -17,7 +17,4 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn and 
 - **Databases**: MySQL, MongoDB, Prisma
 - **Tools & Technologies**: Git, Docker
 
-## 📈 GitHub Stats
-![Waleed Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waleed-Ahmad-dev&show_icons=true&theme=radical)
-
 Thanks for visiting my profile! Have a great day! 😊
