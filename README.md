@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn and 
 - ⚡ Fun fact: I love coding and coffee.
 
 ## 🚀 My Skills
-- **Programming Languages**: JavaScript, Python, TypeScript
-- **Web Development**: HTML, CSS, React, Node.js, Express.js, Flask, Django
-- **Databases**: MySQL, MongoDB, Prisma
-- **Tools & Technologies**: Git, Docker
+- *Programming Languages*: JavaScript, Python, TypeScript
+- *Web Development*: HTML, CSS, React, Node.js, Express.js, Flask, Django
+- *Databases*: MySQL, MongoDB, Prisma
+- *Tools & Technologies*: Git, Docker
 
-Thanks for visiting my profile! Have a great day! 😊
+Thanks for visiting my profile! Have a great day! 
