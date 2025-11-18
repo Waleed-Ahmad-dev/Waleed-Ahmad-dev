@@ -1,8 +1,8 @@
-# Waleed Ahmed
+# Waleed Ahmad
 
 ## 👤 About Me
 
-Hello! I'm Waleed Ahmed, a 16-year-old aspiring software developer currently preparing for my O Levels examinations. With over two years of practical programming experience, I have honed my skills through hands-on projects and professional internships. I completed a software development internship at Firefly Tech Solutions, where I contributed to web application development and debugging. Currently, I am interning at Premier Choice International, leading the development of a custom Content Management System (CMS) using modern technologies like Node.js, Express.js, and PostgreSQL.
+Hello! I'm Waleed Ahmad, a 16-year-old aspiring software developer currently preparing for my O Levels examinations. With over two years of practical programming experience, I have honed my skills through hands-on projects and professional internships. I completed a software development internship at Firefly Tech Solutions, where I contributed to web application development and debugging. Currently, I am interning at Premier Choice International, leading the development of a custom Content Management System (CMS) using modern technologies like Node.js, Express.js, and PostgreSQL.
 
 My primary expertise lies in backend development, focusing on building scalable APIs, database management, and server-side logic. However, I am proficient in full-stack development, enabling me to handle frontend tasks effectively. I am passionate about creating efficient systems, solving complex problems, and continuously expanding my knowledge in emerging technologies.
 
