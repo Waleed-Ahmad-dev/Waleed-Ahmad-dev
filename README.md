@@ -1,132 +1,84 @@
-I’m a 16-year-old developer currently studying for my O Levels, with over two years of hands-on programming experience. I’ve completed an internship at Firefly Tech Solutions and am now interning at Premier Choice International, where I’m working on a custom CMS development project.<br><br>My main specialization is backend development, but I’m fully capable of working on the frontend as well. My tech stack includes:<br><br>Frontend:<br>HTML, CSS, JavaScript, React, Next.js, TypeScript<br><br>Backend & Databases:<br>Node.js, Express.js, MySQL, MongoDB, PostgreSQL, Prisma<br><br>Tools & DevOps:<br>Git, GitHub, Vercel, Netlify, Render, Deploy, Hostinger, custom server deployment<br><br>I also have multiple projects on GitHub, and I’m expanding my skills in Python, Django, Flask, NumPy, Pandas, scikit-learn, and currently learning Go (Golang).<br><br>I’m passionate about building systems, solving problems, and constantly improving as a developer.
+# Waleed Ahmed
 
+## 👤 About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shadow.scripter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waleed-ahmed2009) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itswaleedqureshi@gmail.com) 
+Hello! I'm Waleed Ahmed, a 16-year-old aspiring software developer currently preparing for my O Levels examinations. With over two years of practical programming experience, I have honed my skills through hands-on projects and professional internships. I completed a software development internship at Firefly Tech Solutions, where I contributed to web application development and debugging. Currently, I am interning at Premier Choice International, leading the development of a custom Content Management System (CMS) using modern technologies like Node.js, Express.js, and PostgreSQL.
 
-# 💻 **Tech Stack**
+My primary expertise lies in backend development, focusing on building scalable APIs, database management, and server-side logic. However, I am proficient in full-stack development, enabling me to handle frontend tasks effectively. I am passionate about creating efficient systems, solving complex problems, and continuously expanding my knowledge in emerging technologies.
 
-## **🧱 Frontend**
+### Key Skills and Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge\&logo=remix\&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge\&logo=three.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge\&logo=styled-components\&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge\&logo=SASS\&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge\&logo=react%20query\&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge\&logo=reacthookform\&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge\&logo=ejs\&logoColor=black)
+I specialize in a diverse range of technologies, categorized below for clarity:
 
----
+#### Frontend Development
+- HTML5, CSS3, JavaScript, TypeScript
+- Frameworks & Libraries: React, React Native, Next.js, React Router, React Hook Form, Redux, React Query, Three.js, Expo
+- Styling: Tailwind CSS, Styled Components
+- Build Tools: Vite
 
-## **🛠 Backend**
+#### Backend Development
+- Node.js, Express.js, Nodemon
+- Python: Flask, FastAPI, Django (learning)
+- Go (Golang) (currently learning)
+- Authentication & Security: JWT
+- Other: CodeIgniter, EJS, Socket.io, Strapi, Remix
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge\&logo=fastify\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge\&logo=codeIgniter\&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
+#### Databases & ORM
+- SQL: MySQL, PostgreSQL, SQLite
+- NoSQL: MongoDB
+- ORM/ODM: Prisma, Sequelize
+- Caching: Redis
 
----
+#### DevOps & Deployment
+- Version Control: Git, GitHub
+- CI/CD: GitHub Actions
+- Cloud Platforms: AWS, Google Cloud, Firebase, Heroku, DigitalOcean, Cloudflare
+- Hosting: Vercel, Netlify, Render, Hostinger, Appwrite
+- Containers: Docker
 
-## **🗄 Databases**
+#### Data Science & ML (Emerging Skills)
+- Python Libraries: NumPy, Pandas, scikit-learn, Matplotlib, Plotly
+- Frameworks: PyTorch, TensorFlow
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
+#### Tools & Productivity
+- Testing: Jest, ESLint, Prettier
+- API Development: Postman
+- Design: Figma, Canva
+- Scripting: Bash, PowerShell, Windows Terminal
+- Multimedia: FFmpeg
+- Project Management: Trello
+- Communication: Twilio
 
----
+I maintain an active GitHub profile with multiple open-source projects, including web applications, APIs, and data analysis tools. I am also exploring machine learning and Go for high-performance applications.
 
-## **🚀 DevOps & Deployment**
+## 🌍 Connect with Me
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge\&logo=render\&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-5223FF?style=for-the-badge\&logo=hostinger\&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge\&logo=apache\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shadow.scripter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waleed-ahmed2009) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itswaleedqureshi@gmail.com)
 
----
+## 📈 GitHub Statistics
 
-## **📦 Package Managers & Build Tools**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waleed-Ahmad-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge\&logo=yarn\&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge\&logo=nodemon\&logoColor=%BBDEAD)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Waleed-Ahmad-dev&theme=shadow_blue&hide_border=false)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waleed-Ahmad-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## **🧰 Tools**
+## 🏅 Achievements & Trophies
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge\&logo=powershell\&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Waleed-Ahmad-dev&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+
+## 📚 Top Contributed Repositories
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Waleed-Ahmad-dev&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+## 💡 Random Developer Quote
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 📊 Visitor Count
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Waleed-Ahmad-dev&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ---
 
-## **🔐 Authentication & APIs**
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io\&badgeColor=010101)
-
----
-
-## **📊 Data Science & ML**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
-
----
-
-## **🧪 Testing & Formatting**
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge\&logo=jest\&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge\&logo=eslint\&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge\&logo=prettier\&logoColor=black)
-
----
-
-## **🌐 Other**
-
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=#FF7139)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge\&logo=expo\&logoColor=#D04A37)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Waleed-Ahmad-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Waleed-Ahmad-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Waleed-Ahmad-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Waleed-Ahmad-dev&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Waleed-Ahmad-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Waleed-Ahmad-dev&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+This README was proudly created and maintained using GitHub Profile README Maker (GPRM). For more details, visit [GPRM](https://gprm.itsvg.in).
