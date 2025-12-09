@@ -2,14 +2,6 @@
 
 ### **Aspiring Full-Stack Developer | Backend Specialist | 16 y/o Problem Solver**
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=shadow-scripter\&color=blueviolet\&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/shadow-scripter?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/shadow-scripter?style=for-the-badge)
-
-</div>
-
 ---
 
 ## 👤 **About Me**
@@ -103,17 +95,6 @@ Below is a visually enhanced list of all your technologies with icons and catego
 ![Powershell](https://skillicons.dev/icons?i=powershell)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Trello](https://skillicons.dev/icons?i=trello)
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shadow-scripter\&theme=tokyonight\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadow-scripter\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
 
 ---
 
